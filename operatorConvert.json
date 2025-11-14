@@ -816,7 +816,7 @@
         {
             "operator": "IC",
             "trainNo": ["1810", "1811", "8111"],
-            "categoryOverwrite": "EIC",
+            "categoryOverwrite": "IC",
             "trainName": "Mewa"
         },
         {
